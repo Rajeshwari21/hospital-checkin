@@ -1,0 +1,6 @@
+# dependencies
+/node_modules
+/src/server/node_modules
+
+/src/server/firebase-config.js
+/src/server/hospital-295921-firebase-adminsdk-8sy78-23ec809e77.json
